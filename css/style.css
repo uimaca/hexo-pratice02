@@ -1371,3 +1371,7 @@ pre .javascript .function {
 * {
   box-sizing: border-box;
 }
+
+.use-display {
+  display: none;
+}
